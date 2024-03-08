@@ -7,3 +7,5 @@ A Repository for the nuclear speckles quantification project. Owned by Nebiyu an
 - files that we are going to be using for the analysis
 
 [testing pull request]
+
+#cell profiler review 
